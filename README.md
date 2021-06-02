@@ -1,4 +1,4 @@
-# Restauracja
+# Restauracja Jelonek
 
 ## O projekcie 
 Celem projektu było zaprojektowanie i zrobienie strony w otwartym framework'u o nazwie Angular. \
