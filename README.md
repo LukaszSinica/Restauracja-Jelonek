@@ -3,7 +3,7 @@
 ## O projekcie 
 Celem projektu było zaprojektowanie i zrobienie strony w otwartym framework'u o nazwie Angular. \
 Do stworzenia API wykorzystana była biblioteka o nazwie Express do NodeJS. \
-Do zarządzania projektem używana była Jira. 
+Do zarządzania projektem użyte zostało opgroramowanie o nazwie Jira firmy Atlassian . 
 
 ## Zespół
 Jest to projekt grupowy w którym brało udział 4 osoby. 
