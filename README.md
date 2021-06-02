@@ -6,7 +6,7 @@ Do stworzenia API wykorzystana była biblioteka o nazwie Express do NodeJS. \
 Do zarządzania projektem używana była Jira. 
 
 ## Zespół
-Jest to projekt grupowy w którym brało udział 4 osoby. \
+Jest to projekt grupowy w którym brało udział 4 osoby. 
 - Damian Jancewicz, 
 - Kacper Pańkiewicz, 
 - Łukasz Sinica, 
