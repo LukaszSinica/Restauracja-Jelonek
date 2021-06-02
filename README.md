@@ -3,7 +3,8 @@
 ## O projekcie 
 Celem projektu było zaprojektowanie i zrobienie strony w otwartym framework'u o nazwie Angular. \
 Jest to projekt grupowy w którym brało udział 4 osoby. \
-Do stworzenia API wykorzystana była biblioteka o nazwie Express do NodeJS.
+Do stworzenia API wykorzystana była biblioteka o nazwie Express do NodeJS. \
+Do zarządzania projektem używana była Jira. 
 
 ## Zespół
 Damian Jancewicz, Kacper Pańkiewicz, Łukasz Sinica, Szymon Doerfer
