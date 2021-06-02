@@ -14,6 +14,5 @@ Jest to projekt grupowy w którym brało udział 4 osoby.
 
 ## Linki
 https://team-1606220046844.atlassian.net/jira/software/projects/RJ/boards/4/backlog \
-https://github.com/dilejt/jelonek-app - Express API \
-https://restauracjajelonek.herokuapp.com/ - Hosting 
+https://github.com/dilejt/jelonek-app - Express API 
 
